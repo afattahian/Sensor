@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyBarometer</string>
+    <string name="action_settings">Settings</string>
+    <string name="barometer_heading">Current Air Pressure:</string>
+    <string name="altitude_heading">Current Altitude:</string>
+
+</resources>
